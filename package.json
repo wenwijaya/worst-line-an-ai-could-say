@@ -1,0 +1,1 @@
+{"description":"The worst pickup line an AI could say — a make.fun program/v1 entry.","license":"MIT","name":"worst-line-an-ai-could-say","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
